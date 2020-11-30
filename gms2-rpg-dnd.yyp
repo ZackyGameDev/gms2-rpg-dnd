@@ -1,11 +1,13 @@
 {
   "resources": [
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":6,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"spr_player_top","path":"sprites/spr_player_top/spr_player_top.yy",},"order":1,},
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},"order":2,},
     {"id":{"name":"spr_player_top_right","path":"sprites/spr_player_top_right/spr_player_top_right.yy",},"order":3,},
     {"id":{"name":"spr_player_bottom","path":"sprites/spr_player_bottom/spr_player_bottom.yy",},"order":4,},
     {"id":{"name":"spr_player_bottom_right","path":"sprites/spr_player_bottom_right/spr_player_bottom_right.yy",},"order":5,},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":0,},
   ],
@@ -50,7 +52,7 @@
     "IDEVersion": "2.3.1.536",
   },
   "resourceVersion": "1.4",
-  "name": "gms2-rpg-dnd (converted)",
+  "name": "gms2-rpg-dnd",
   "tags": [],
   "resourceType": "GMProject",
 }
